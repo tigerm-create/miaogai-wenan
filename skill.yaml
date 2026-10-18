@@ -1,0 +1,5 @@
+name: "copy_polish"
+title: "秒改文案"
+description: "把一段基础文案按苹果式极简或宜家式温暖改写得更友好精准精简，附带改写理由，适用于互联网产品的按钮、报错、空状态、推送等场景。"
+category: "Work and knowledge"
+include_in_prompt: true
